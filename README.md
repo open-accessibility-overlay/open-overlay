@@ -6,15 +6,15 @@ It was part of a pitch at an accessibility centered barcamp, which proposed the 
 
 Of course this overlay would have suffered from the same deficiencies as all the other existing ones. But the idea was to disrupt the current overlay landscape, thereby
 
-a) stopping client companies from channeling any more money into deficient commercial overlays and
+a) stopping client companies from channeling any more money into deficient commercial overlays and  
 b) getting access to overlay users to offer them education or consultancy on that topic.
 
 The presentation and idea failed miserably, due to two reasons: One being that the session was incorrectly or too vaguely framed and therefore not managing the expectations correctly, the other being that the idea of "switching the sides" and contributing to the overlay narrative offended a lot of people.
 
 This proposal was designed to work only if the community would
 
-a) feel comfortable with it, and
-b) help develop it
+a) feel comfortable with it, and  
+b) help develop it  
 c) and spread the word of it existing.
 
 None of that is the case. Therefor it is to be considered dead.
