@@ -13,8 +13,8 @@ The presentation and idea failed miserably, due to two reasons: One being that t
 
 This proposal was designed to work only if the community would
 
-a) feel comfortable with it, and  
-b) help develop it  
+a) feel comfortable with it,  
+b) help develop it,  
 c) and spread the word of it existing.
 
 None of that is the case. Therefor it is to be considered dead.
